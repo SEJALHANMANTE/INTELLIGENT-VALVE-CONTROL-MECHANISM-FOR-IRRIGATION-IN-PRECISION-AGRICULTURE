@@ -16,6 +16,9 @@ the right time. One of the key advantages of the proposed system is its ability 
 ![BE PROJ POSTER (1)](https://github.com/SEJALHANMANTE/INTELLIGENT-VALVE-CONTROL-MECHANISM-FOR-IRRIGATION-IN-PRECISION-AGRICULTURE/assets/120907298/47c073a4-7b01-469e-94e3-5f822310247b)
 
 
+
+
+
 ![WhatsApp Image 2024-04-04 at 10 28 20 AM](https://github.com/SEJALHANMANTE/INTELLIGENT-VALVE-CONTROL-MECHANISM-FOR-IRRIGATION-IN-PRECISION-AGRICULTURE/assets/120907298/6d150c15-7e95-4f0b-a3c3-ba25c3a589bf)
 Actual System Implementation 
 
