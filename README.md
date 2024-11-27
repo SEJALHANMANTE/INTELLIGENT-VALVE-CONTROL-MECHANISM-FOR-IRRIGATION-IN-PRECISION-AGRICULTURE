@@ -30,8 +30,7 @@ This Repository contains :
 5. Proteus Simulation / Circuit Diagram '
 6. Block Diagram
 7. Project PPT
-8. Flutter app code and app screenshots
-9. Cloud (Firebase) screenshots
-10. Project Competition Certificates
-11. Project Demonstration Video
-12. Workflow documentation of project for those willing to do the project
+8. Flutter app code 
+
+
+
