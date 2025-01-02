@@ -66,10 +66,12 @@ This repository includes:
    cd project-directory
 
 
+---
 
 
+![WhatsApp Image 2024-04-04 at 10 28 20 AM](https://github.com/SEJALHANMANTE/INTELLIGENT-VALVE-CONTROL-MECHANISM-FOR-IRRIGATION-IN-PRECISION-AGRICULTURE/assets/120907298/6d150c15-7e95-4f0b-a3c3-ba25c3a589bf)
+Actual System Implementation 
 
-
-
+T
 
 
